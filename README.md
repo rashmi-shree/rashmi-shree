@@ -6,12 +6,10 @@
 ### <div align="center">I'm Rashmi, a full-time Software Engineer 👨‍💻 since 2019 🚀</div>  
   
 ### Project Links 
+- [Portfolio](https://rashmi-shree.github.io/portfolio/)
+  
 - [Sign up form](https://rashmi-shree.github.io/sign-up-form/)  
   
-
-- [Portfolio](https://rashmi-shree.github.io/portfolio/)
-
-
 - [Nike product card](https://rashmi-shree.github.io/Nike-product-card/)
 
 - [Swiggy app](http://51.20.54.15:3000/)
