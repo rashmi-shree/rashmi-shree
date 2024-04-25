@@ -6,10 +6,13 @@
 ### <div align="center">I'm Rashmi, a full-time Software Engineer 👨‍💻 since 2019 🚀</div>  
   
 
-- [Email id](rashmidivya.shree6@gmail.com)💌  
+- [Sign up form](https://rashmi-shree.github.io/sign-up-form/)  
   
 
-- [Portfolio](https://rashmi-shree.github.io/portfolio/)💻  
+- [Portfolio](https://rashmi-shree.github.io/portfolio/)
+
+
+- [Nike product card](https://rashmi-shree.github.io/Nike-product-card/)
   
 
 
