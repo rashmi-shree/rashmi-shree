@@ -13,6 +13,14 @@
 
 
 - [Nike product card](https://rashmi-shree.github.io/Nike-product-card/)
+
+- [Swiggy app](http://51.20.54.15:3000/)
+
+- [Netflix app](http://51.20.31.102:3000/)
+ 
+- [You tube app](http://51.20.1.215:3000/)
+
+- [You tube app](http://16.171.10.85:3000/)
   
 
 
