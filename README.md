@@ -14,7 +14,7 @@
 
 - [Swiggy app](https://main--siwggyapp0102.netlify.app/)
 
-- [Netflix app](http://51.20.31.102:3000/)
+- [Netflix app](https://main--gpt-netflix0102.netlify.app/)
  
 - [You tube app](http://51.20.1.215:3000/)
 
