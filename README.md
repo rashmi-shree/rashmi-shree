@@ -23,6 +23,7 @@
 - [3D Swing](https://rashmi-shree.github.io/3d-swing/)
 - [3D Menu](https://rashmi-shree.github.io/3d-menu/)
 - [3D Landing Page](https://rashmi-shree.github.io/3d-landing-page/)
+- [Namaste React](https://main--namastereact0102.netlify.app/)
   
 
 
