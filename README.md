@@ -18,7 +18,7 @@
  
 - [You tube app](https://main--youtubeapp0102.netlify.app/)
 
-- [Weather app](http://16.171.10.85:3000/)
+- [Weather app](https://main--aa-rnewsapp0102.netlify.app/)
 - [Dark mode](https://rashmi-shree.github.io/dark-mode/)
 - [3D Swing](https://rashmi-shree.github.io/3d-swing/)
 - [3D Menu](https://rashmi-shree.github.io/3d-menu/)
