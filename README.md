@@ -14,7 +14,7 @@
 
 - [Swiggy app](https://main--siwggyapp0102.netlify.app/)
 
-- [Netflix app](https://main--gpt-netflix0102.netlify.app/)
+- [Netflix app](https://main--netflixgpt0102.netlify.app/)
  
 - [You tube app](https://main--youtubeapp0102.netlify.app/)
 
