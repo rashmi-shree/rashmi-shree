@@ -1,5 +1,6 @@
 <div align="center">  
-![7E1FA88D-89D0-41DA-B761-97608209228D](https://github.com/rashmi-shree/rashmi-shree/assets/31822889/748ed2d8-a750-4b44-8b61-d3f1d42b78e5)
+![7E1FA88D-89D0-41DA-B761-97608209228D](https://github.com/rashmi-shree/rashmi-shree/assets/31822889/48e63cb5-7863-48e7-9d7a-a516e116a341)
+
 </div>  
 ### <div align="center">I'm Rashmi, a full-time Software Engineer 👨‍💻 since 2019 🚀</div>  
   
