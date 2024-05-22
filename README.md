@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/rashmi-shree/rashmi-shree/blob/main/7E1FA88D-89D0-41DA-B761-97608209228D.PNG?raw=true" align="center" style="width: 100%" />
-</div>  
+    <img src="https://github.com/rashmi-shree/rashmi-shree/blob/main/7E1FA88D-89D0-41DA-B761-97608209228D.PNG?raw=true" align="center" style="width: 20rem; height: 20rem;" />
+</div> 
+
  
 <div align="center">I'm Rashmi, a full-time Software Engineer 👨‍💻 since 2019 🚀</div>  
   
