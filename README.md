@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UUSQAOEDRABFFVE6YJPOUVLAQ.jpg" align="center" style="width: 100%" />
-</div>  
-  
+<div align="center">  
 ![7E1FA88D-89D0-41DA-B761-97608209228D](https://github.com/rashmi-shree/rashmi-shree/assets/31822889/748ed2d8-a750-4b44-8b61-d3f1d42b78e5)
-
+</div>  
 ### <div align="center">I'm Rashmi, a full-time Software Engineer 👨‍💻 since 2019 🚀</div>  
   
 ### Project Links 
