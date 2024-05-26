@@ -84,11 +84,6 @@ Hey !! I'm a seasoned full stack developer boasting over five years of hands-on 
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
